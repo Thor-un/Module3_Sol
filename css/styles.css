@@ -1,0 +1,35 @@
+
+
+#header-nav {
+    background-color: #8fadac;
+    border-radius: 0;
+    border: 0;
+    margin: 0;
+  }
+.navbar-header a:hover, .navbar-header a:focus {
+    text-decoration: none;
+  }
+.navbar-header h1 {
+    color: #000;
+    margin: 15px;
+}
+h2 {
+    text-align: center;
+    font-weight: 500;
+}
+#chicken, #pork, #beef{
+    background-color: rgb(197, 195, 195);
+    text-align: center;
+    margin: 15px;
+    padding: 10px;
+}
+h3 {
+    margin: 10px;
+}
+button {
+    position: relative;
+    bottom: 59px;
+}
+#nav-list a{
+    text-align: center;
+}
